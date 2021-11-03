@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @TrannKhangg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TrannKhangg/TrannKhangg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Vietnamese here :
+ Tên : Trần Khang
+ Biệt danh : KhanggTrann hoặc TrannKhangg
+ Thời Gian Rảnh : 
+     + Code Plugin
+     + Edit Plugin
+     + Dịch Plugin
+     + Vẽ
+     + Lướt Face :D
+ Mình có nhận làm coder cho server không công hoặc làm có công nhưng trả tiền tùy theo chủ server :D
+ Ngôn ngữ lập trình : PHP.
+ 
+English here :
+ Name : Tran Khang 
+ Nickname : KhanggTrann or TrannKhangg lol
+ In break times :
+     + Code Plugin
+     + Edit Plugin
+     + Translator
+     + Draw
+     + Internet Surf :D
+I can code plugin for your server for free or maybe do for commissions if you wished :D
