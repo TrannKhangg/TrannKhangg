@@ -19,4 +19,4 @@ English here :
      + Translator
      + Draw
      + Internet Surf :D
-I can code plugin for your server for free or maybe do for commissions if you wished :D
+I can code your server plugin for free or earn commission if you want :D
