@@ -9,6 +9,7 @@ Vietnamese here :
      + Lướt Face :D
  Mình có nhận làm coder cho server không công hoặc làm có công nhưng trả tiền tùy theo chủ server :D
  Ngôn ngữ lập trình : PHP.
+ FB : https://www.facebook.com/khanggtran.deptrai
  
 English here :
  Name : Tran Khang 
@@ -20,3 +21,4 @@ English here :
      + Draw
      + Internet Surf :D
 I can code your server plugin for free or earn commission if you want :D
+Facebook : https://www.facebook.com/khanggtran.deptrai
