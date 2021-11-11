@@ -1,4 +1,4 @@
-Vietnamese here :
+Vietnamese :
  Tên : Trần Khang
  Biệt danh : KhanggTrann hoặc TrannKhangg
  Thời Gian Rảnh : 
@@ -11,7 +11,7 @@ Vietnamese here :
  Ngôn ngữ lập trình : PHP.
  FB : https://www.facebook.com/khanggtran.deptrai
  
-English here :
+English :
  Name : Tran Khang 
  Nickname : KhanggTrann or TrannKhangg lol
  In break times :
